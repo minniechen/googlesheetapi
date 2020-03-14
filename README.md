@@ -1,4 +1,6 @@
 # googlesheetapi
+此项目的token未上传，需要自己根据官网操作获取对应的credential。
+
 Step1: 获取Google 账号里面 service account Credential 并下载保存。
 
 1. 参考google api练习网站，调用API操作常用的功能，如获取sheet名称，更新数据API：https://developers.google.com/sheets/api/quickstart/nodejs
